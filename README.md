@@ -107,12 +107,10 @@ Feel free to fork this project and contribute by:
 - Improving code efficiency
 - Enhancing the user interface
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 This README provides the necessary details about the project setup, usage, and functionality. It should help users understand how to use the program, what dependencies are required, and what the output will look like.
 
-Let me know if you need any further adjustments!
+![functional_cylinder_sequence](https://github.com/user-attachments/assets/f11db1bb-df84-45c8-a107-5e413809e568)
+
